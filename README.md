@@ -1,4 +1,4 @@
-# Environment/Background Sound Classification in Speech Signals (Publication)
+# Classification of UAVs using Remote Control Signals (Publication)
 
 <a href="[https://pubs.aip.org/asa/jasa/article/151/4/2773/2838550/Lightweight-deep-convolutional-neural-network-for](https://ieeexplore.ieee.org/document/10027150)" style="text-decoration: underline;">Classification of UAVs using Time-Frequency Analysis of Remote Control Signals and CNN</a> (IEEE  International Symposium on Smart Electronic Systems (iSES), 2022)
 
